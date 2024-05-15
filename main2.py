@@ -51,3 +51,4 @@ if st.button("Classify"):
         result = "ham"
 
     st.write(f"The text is classified as: {result}")
+    st.write(" \n Developed by Prasanth K V:  2000prasanth@protonmail.com")
